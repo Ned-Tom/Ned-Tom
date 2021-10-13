@@ -1,4 +1,9 @@
-### Hi there 👋 <p align="right">[![preview](buymeacoffee.png)](https://www.buymeacoffee.com/nedtom)</p>
+<div style="width:100%; display: flex; justify-content:space-between;">
+	<div><h3>Hi there 👋 </h3></div>
+	<div>
+	<a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a>
+	</div>
+</div>
 
 <!--
 **Ned-Tom/Ned-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
