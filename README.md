@@ -1,7 +1,5 @@
-<div style="width:100%; display: flex; justify-content:space-between;">
-	<div style="flex-grow:1;"><h3>Hi there 👋 </h3></div>
-	<div style="flex-grow:0;"><a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a></div>
-</div>
+<div style="width:50%;"><h3>Hi there 👋 </h3></div>
+<div style="width:50%; float:left;"><a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a></div>
 
 <!--
 **Ned-Tom/Ned-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
