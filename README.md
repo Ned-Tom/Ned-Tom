@@ -1,4 +1,4 @@
-### Hi there 👋 <p align="center">[![preview](buymeacoffee.png)](https://www.buymeacoffee.com/nedtom)</p>
+### Hi there 👋 <p align="right">[![preview](buymeacoffee.png)](https://www.buymeacoffee.com/nedtom)</p>
 
 <!--
 **Ned-Tom/Ned-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
