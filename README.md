@@ -1,8 +1,6 @@
 <div style="width:100%; display: flex; justify-content:space-between;">
-	<div><h3>Hi there 👋 </h3></div>
-	<div>
-	<a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a>
-	</div>
+	<div style="flex-grow:1;"><h3>Hi there 👋 </h3></div>
+	<div style="flex-grow:0;"><a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a></div>
 </div>
 
 <!--
