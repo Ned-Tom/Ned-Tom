@@ -1,7 +1,8 @@
-<div style="width:100%;">
-<div style="width:50%; float:left;"><h3>Hi there 👋 </h3></div>
-<div style="float:right;"><a href="https://www.buymeacoffee.com/nedtom"><img src="buymeacoffee.png"></a></div>
-</div>
+### Hi there 👋
+
+If you like what I'm doing pleas consider to buy me a Coffee.
+
+[![preview](buymeacoffee.png)](https://www.buymeacoffee.com/nedtom)
 
 <!--
 **Ned-Tom/Ned-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
