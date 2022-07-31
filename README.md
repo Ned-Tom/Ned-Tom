@@ -24,7 +24,7 @@ Coding languages i know a bit of:
 - Python
 - C#
 
-If you like what I'm doing pleas consider to buy me a Coffee, the stuff that keeps me going.
+If you like what I'm doing pleas consider to buy me a Cappuccino, the stuff that keeps me going.
 
 [![preview](buymeacoffee.png)](https://www.buymeacoffee.com/nedtom)
 
