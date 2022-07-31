@@ -8,11 +8,12 @@ Om my profile i wil share some code and opensource projects.
 - Better Javascript and Gjs.
 - and some random stuff.
 
-- 👯 I’m looking to collaborate on small project's that need some non crucial help.
 
-- ⚡ fact: Can be grumpy when he's feeling responsible and has to much hay on it fork.
+👯 I’m looking to collaborate on small project's that need some non crucial help.
 
-- 🤔 I’m looking for help with getting stuff done.
+⚡ fact: Can be grumpy when he's feeling responsible and has to much hay on it fork.
+
+🤔 I’m looking for help with getting stuff done.
 
 Coding languages i know a bit of:
 - html
