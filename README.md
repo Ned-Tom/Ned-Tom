@@ -6,6 +6,7 @@ Om my profile i wil share some code and opensource projects.
 - Gnome Extentions.
 - Rust Programing language.
 - Better Javascript and Gjs.
+- Typescript
 - and some random stuff.
 
 
